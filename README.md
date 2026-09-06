@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Akhya 👋
 
-<!--
-**akhya6724-png/akhya6724-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech IT Student | AI/ML & Web Development
 
-Here are some ideas to get you started:
+I'm an Information Technology student interested in building practical software solutions and exploring AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Building
+
+### STARTWISE
+An AI-powered startup advisor that helps users validate startup ideas through market research, competition analysis, risk assessment, and actionable insights.
+
+## 🛠️ Tech I'm Working With
+
+- Java
+- Python
+- JavaScript
+- HTML & CSS
+- React
+- FastAPI
+- SQL
+- Git & GitHub
+
+## 📌 What I'm Interested In
+
+- Artificial Intelligence & Machine Learning
+- Web Development
+- Backend Development
+- Hackathons & Problem Solving
+- Building real-world projects
+
+## 📂 Featured Projects
+
+🚀 **STARTWISE**  
+AI-powered startup idea validation and advisory platform.
+
+🌍 **Smart Traveler Planner**  
+Travel management web application with planning, budgeting, weather and AI-assisted features.
+
+🤖 **AI Interview Agent**  
+An adaptive AI-based technical interview preparation project.
+
+## 📈 Currently Learning
+
+- AI/ML
+- Backend Development
+- APIs & System Design
+- Git & GitHub
+- Building and deploying real-world applications
+
+---
+
+### 💻 Build → Learn → Improve → Repeat
